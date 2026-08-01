@@ -1,3 +1,6 @@
+[Tests](https://github.com/isaacarmz99/quantum-toolkit/actions/workflows/tests.yml/badge.svg)
+
+
 # Quantum Software Engineering Toolkit
 
 A hands-on portfolio project for breaking into quantum computing roles.
